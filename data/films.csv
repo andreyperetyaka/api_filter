@@ -1,0 +1,16 @@
+id; name; genre1; genre2; year
+1; Фильм Б; action; horror; 2011
+2; Фильм А; action; fantasy; 2003
+3; Фильм В; action; fantasy; 2001
+4; Фильм Д; horror; action; 2002
+5; Фильм К; detective; fantasy; 2002
+6; Фильм Л; horror; fantasy; 2003
+7; Фильм Й; horror; action; 2003
+8; Фильм Ц; detective; fantasy; 2004
+9; Фильм У; horror; fantasy; 2005
+10; Фильм К; horror; fantasy; 2004
+11; Фильм Е; detective; fantasy; 2005
+12; Фильм Н; horror; anime; 2005
+13; Фильм Г; anime; fantasy; 2004
+14; Фильм Ш; horror; fantasy; 2005
+15; Фильм З; action; detective; 2005
